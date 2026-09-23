@@ -1,0 +1,142 @@
+{
+  "antigravity": {
+    "Company": "Google",
+    "Color": "Blue",
+    "Description": "desc_antigravity",
+    "Shared": false,
+    "Confidence": "native"
+  },
+  "augment-code": {
+    "Company": "Augment Code",
+    "Color": "DarkCyan",
+    "Description": "desc_augment-code",
+    "Shared": true,
+    "Confidence": "candidate"
+  },
+  "claude-code": {
+    "Company": "Anthropic",
+    "Color": "Yellow",
+    "Description": "desc_claude-code",
+    "Shared": false,
+    "Confidence": "local"
+  },
+  "cline": {
+    "Company": "Cline",
+    "Color": "Cyan",
+    "Description": "desc_cline",
+    "Shared": true,
+    "Confidence": "local"
+  },
+  "codex": {
+    "Company": "OpenAI",
+    "Color": "Green",
+    "Description": "desc_codex",
+    "Shared": false,
+    "Confidence": "local"
+  },
+  "continue": {
+    "Company": "Continue",
+    "Color": "Magenta",
+    "Description": "desc_continue",
+    "Shared": true,
+    "Confidence": "documented"
+  },
+  "cursor": {
+    "Company": "SpaceX",
+    "Color": "White",
+    "Description": "desc_cursor",
+    "Shared": true,
+    "Confidence": "local"
+  },
+  "copilot-vscode": {
+    "Company": "GitHub / Microsoft",
+    "Color": "Blue",
+    "Description": "desc_copilot-vscode",
+    "Shared": true,
+    "Confidence": "local"
+  },
+  "kilo-code": {
+    "Company": "Kilo",
+    "Color": "Yellow",
+    "Description": "desc_kilo-code",
+    "Shared": true,
+    "Confidence": "documented"
+  },
+  "kimi-code": {
+    "Company": "Moonshot AI",
+    "Color": "Cyan",
+    "Description": "desc_kimi-code",
+    "Shared": false,
+    "Confidence": "local"
+  },
+  "kiro": {
+    "Company": "AWS",
+    "Color": "Magenta",
+    "Description": "desc_kiro",
+    "Shared": false,
+    "Confidence": "candidate"
+  },
+  "opencode": {
+    "Company": "Anomaly",
+    "Color": "Green",
+    "Description": "desc_opencode",
+    "Shared": false,
+    "Confidence": "local"
+  },
+  "qwen-code": {
+    "Company": "Alibaba",
+    "Color": "Magenta",
+    "Description": "desc_qwen-code",
+    "Shared": false,
+    "Confidence": "local"
+  },
+  "roo-code": {
+    "Company": "Roo Code Inc.",
+    "Color": "Yellow",
+    "Description": "desc_roo-code",
+    "Shared": true,
+    "Confidence": "documented"
+  },
+  "tabnine": {
+    "Company": "Tabnine",
+    "Color": "Cyan",
+    "Description": "desc_tabnine",
+    "Shared": true,
+    "Confidence": "candidate"
+  },
+  "trae": {
+    "Company": "ByteDance",
+    "Color": "Green",
+    "Description": "desc_trae",
+    "Shared": true,
+    "Confidence": "candidate"
+  },
+  "windsurf": {
+    "Company": "Cognition",
+    "Color": "Blue",
+    "Description": "desc_windsurf",
+    "Shared": true,
+    "Confidence": "documented"
+  },
+  "xiaomi-mimo": {
+    "Company": "Xiaomi",
+    "Color": "Yellow",
+    "Description": "desc_xiaomi-mimo",
+    "Shared": false,
+    "Confidence": "local"
+  },
+  "zcode": {
+    "Company": "Z.ai",
+    "Color": "Cyan",
+    "Description": "desc_zcode",
+    "Shared": false,
+    "Confidence": "local"
+  },
+  "zed": {
+    "Company": "Zed Industries",
+    "Color": "Magenta",
+    "Description": "desc_zed",
+    "Shared": false,
+    "Confidence": "documented"
+  }
+}
