@@ -1,6 +1,6 @@
 # AI Chat Vault — manutenção
 
-Atualizado em 23/09/2026, versão 4.1.4. [English](AGENTS.md).
+Atualizado em 23/09/2026, versão 1.0.0. [English](AGENTS.md).
 
 - Manter README.md, README.pt-BR.md, AGENTS.md e AGENTS.pt-BR.md sincronizados.
 - Preservar os 20 perfis de IA. Catálogo alfabético com empresa, descrição, cores e

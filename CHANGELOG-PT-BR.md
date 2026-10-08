@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 [4.1.4] — 23/09/2026
+## 🚀 [1.0.0] — 23/09/2026
 
 * **Atribuição do Cursor e Confirmação de Restauração:** Atualização da empresa mãe exibida para o Cursor. Substituição da confirmação digitada por opções numéricas coloridas (1 Restaurar / 0 Cancelar) com cópia de segurança prévia automática.
 * **Seletor de Backups Simplificado:** Padronização da consulta para "Escolha a opção desejada" em todas as aplicações, com navegação fluida por setas.

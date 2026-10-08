@@ -1,4 +1,4 @@
-﻿# 🛡️ AI Chat Vault 4.1
+# 🛡️ AI Chat Vault v1.0.0
 
 <div align="center">
 

@@ -1,6 +1,6 @@
 # AI Chat Vault — maintenance
 
-Updated 2026-09-23, version 4.1.4. [Português](AGENTS.pt-BR.md).
+Updated 2026-09-23, version 1.0.0. [Português](AGENTS.pt-BR.md).
 
 - Keep README.md, README.pt-BR.md, AGENTS.md and AGENTS.pt-BR.md synchronized.
 - Preserve the 20 existing app profiles. Alphabetical catalog, company, description,

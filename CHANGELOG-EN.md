@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 [4.1.4] — 2026-09-23
+## 🚀 [1.0.0] — 2026-09-23
 
 * **Cursor Attribution & Restore Confirmation:** Updated parent company metadata for Cursor. Replaced typed confirmation with structured numeric options (1 Restore / 0 Cancel) and automatic pre-restore safety snapshots.
 * **Streamlined Backup Picker:** Unified prompt to "Choose an option" across all applications with zero-lag keyboard arrow navigation.

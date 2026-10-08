@@ -83,7 +83,7 @@ display-only; the underlying repair behavior was not retested against the live a
   invalid numbers retry instead of returning to the previous screen. No real backup
   was restored as part of UI testing.
 
-## 4.1.4 restore confirmation and company label
+## 1.0.0 restore confirmation and company label
 
 The company label was checked against Cursor's August 14, 2026 acquisition
 announcement on its official website. Profile IDs, roots and snapshot schemas

@@ -1,4 +1,4 @@
-# 4.1.4 — Cursor attribution and restore confirmation
+# 1.0.0 — Cursor attribution and restore confirmation
 
 - Display Cursor (SpaceX), based on Cursor's official acquisition announcement.
 - Keep the complete restore preview; replace the typed RESTAURAR token with

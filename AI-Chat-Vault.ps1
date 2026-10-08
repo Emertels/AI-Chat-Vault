@@ -1,4 +1,4 @@
-﻿#Requires -Version 5.1
+#Requires -Version 5.1
 <#
 .SYNOPSIS
     Cofre IA: backup e restauração de perfis locais de ferramentas de programação.
@@ -17,7 +17,7 @@
 .EXAMPLE
     .\AI-Chat-Vault.ps1 -Acao Backup -Aplicativo codex
 .NOTES
-    Versão 4.1.4 | 23/09/2026 | Código aberto, licença MIT no guia.
+    Versão 1.0.0 | 23/09/2026 | Código aberto, licença MIT no guia.
     Não executar como administrador. Consulte README.pt-BR.md antes de restaurar.
 #>
 [CmdletBinding()]
@@ -34,7 +34,7 @@ if ($Acao -eq 'Diagnostico') { $Acao = 'Diagnostics' }
 
 Set-StrictMode -Version 2.0
 $ErrorActionPreference = 'Stop'
-$script:Version = '4.1.4'
+$script:Version = '1.0.0'
 $script:Started = Get-Date
 $script:SessionId = [guid]::NewGuid().ToString('N').Substring(0,8)
 $script:Base = [IO.Path]::GetFullPath($PSScriptRoot)
